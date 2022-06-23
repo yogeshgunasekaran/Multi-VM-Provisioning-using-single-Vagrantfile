@@ -3,7 +3,7 @@
 ## Prerequisite
 - Install Oracle VM Virtualbox
 - Install Vagrant
-- Install Vagrant plugins in Vagrant
+- Install Vagrant plugin in Vagrant
    ```sh
    cmd: vagrant plugin install vagrant-hostmanager
    ```
