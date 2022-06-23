@@ -1,7 +1,7 @@
-# Multi-VM-Provisioning-using-single-Vagrantfile
+# Multi VM Provisioning with a Vagrantfile
 
 Prerequisite
-1. Oracle VM Virtualbox
-2. Vagrant
-3. Vagrant plugins
-a. vagrant plugin install vagrant-hostmanager
+1. Install Oracle VM Virtualbox
+2. Install Vagrant
+3. Install Vagrant plugins in Vagrant
+    cmd: vagrant plugin install vagrant-hostmanager
