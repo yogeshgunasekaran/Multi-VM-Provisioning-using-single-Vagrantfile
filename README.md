@@ -1,4 +1,4 @@
-# Multi VM Provisioning with a Vagrantfile
+# Multi VM Stack Provisioning with a Vagrantfile
 
 ## Prerequisite
 -  Oracle VM Virtualbox
